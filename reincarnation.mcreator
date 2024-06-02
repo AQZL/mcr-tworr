@@ -1,0 +1,186 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Reincarnation1SongKaiAnJianShi",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_1_song_kai_an_jian_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reincarnation1",
+      "type": "keybind",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_1"
+    },
+    {
+      "name": "Reincarnation2",
+      "type": "keybind",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_2"
+    },
+    {
+      "name": "Reincarnation2SongKaiAnJianShi",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_2_song_kai_an_jian_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reincarnation3SongKaiAnJianShi",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_3_song_kai_an_jian_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reincarnation3",
+      "type": "keybind",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reincarnation_3"
+    },
+    {
+      "name": "SongofReincarnation",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "songof_reincarnation"
+    },
+    {
+      "name": "SongReincarnation",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "song_reincarnation"
+    },
+    {
+      "name": "Songachievement",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "songachievement"
+    },
+    {
+      "name": "Tonliu",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tonliu"
+    },
+    {
+      "name": "Tieliu",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tieliu"
+    },
+    {
+      "name": "Jinliu",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jinliu"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "rein1",
+      "files": [
+        "reincarnation"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.reincarnation.tonliu": "铜币",
+      "advancements.songachievement.title": "转生之歌",
+      "item.reincarnation.songof_reincarnation": "转生之歌",
+      "subtitles.rein1": "",
+      "key.reincarnation.reincarnation_2": "捕食者:水",
+      "item.reincarnation.songof_reincarnation.desc": "-転生したらスライムだった件 ",
+      "key.reincarnation.reincarnation_3": "捕食者:岩浆",
+      "advancements.songachievement.descr": "-献给玩家们的一首BGM",
+      "item.reincarnation.jinliu": "金币",
+      "key.reincarnation.reincarnation_1": "捕食者:方块",
+      "item.reincarnation.tieliu": "铁币"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "reincarnation",
+    "modName": "reincarnation",
+    "version": "V0.2",
+    "author": "AblazeAQZL",
+    "websiteURL": "https://www.mcmod.cn/modpack/370.html",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "AblazeAQZL",
+    "modElementsPackage": "net.ablazeaqzl.reincarnation",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
